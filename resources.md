@@ -1,12 +1,12 @@
 # 🌐 Resources
 
 ## 🔐 Web Security
-- [PortSwigger Web Security](https://portswigger.net/web-security).
+- [PortSwigger Web Security](https://portswigger.net/web-security)
 
 ## 💡 Writing Better Code
-- (HE) [Literary Code](https://www.geektime.co.il/literary-code/).
+- (HE) [Literary Code](https://www.geektime.co.il/literary-code/)
 ### 🐍 Python
-- [PEP 8 – Python Style Guide](https://peps.python.org/pep-0008/).
+- [PEP 8 – Python Style Guide](https://peps.python.org/pep-0008/)
 - [Python Naming Conventions](https://www.geeksforgeeks.org/python-naming-conventions/) – Guidelines for naming variables, functions, and more in Python.
 - [Python Module Structure](https://docs.python-guide.org/writing/structure/#modules) – Best practices for structuring Python projects.
 
@@ -17,11 +17,11 @@
 
 ## 🎭 Miscellaneous
 - [ExplainShell](https://explainshell.com/) – Explains shell commands.
-- [Google Cloud – Flare-On 11 Reverse Engineering Challenge Solutions](https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions).
+- [Google Cloud – Flare-On 11 Reverse Engineering Challenge Solutions](https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 ### 📄 Articles
-- [Signal's Blog – Exploring vulnerabilities in Cellebrite forensic software](https://signal.org/blog/cellebrite-vulnerabilities/).
+- [Signal's Blog – Exploring vulnerabilities in Cellebrite forensic software](https://signal.org/blog/cellebrite-vulnerabilities/)
 - [Google Project Zero – A Deep Dive into NSO Zero-Click](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html) – Analyzing NSO zero-click exploit.
 - [Google Project Zero – FORCEDENTRY Sandbox Escape](https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html) – An in-depth analysis of a sandbox escape exploit.
 
