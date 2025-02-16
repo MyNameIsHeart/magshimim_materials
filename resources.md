@@ -12,7 +12,9 @@
 ## 🏆 Capture The Flag (CTFs)
 - [FXP CTF Collection](https://www.fxp.co.il/showthread.php?t=17474110) – A collection of CTF resources and challenges.
 - [ippsec YouTube Channel](https://www.youtube.com/@ippsec/videos) – Walkthroughs of HackTheBox and other CTF challenges.
+- [OverTheWire Wargames](https://overthewire.org/wargames/) – A collection of CTFs. Bandit is recommended for better proficiency with Linux-based distos.
 
 ## 🎭 Miscellaneous
 - [Google Cloud – Flare-On 11 Challenge Solutions](https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions) – Solutions and insights from the Flare-On 11 reverse engineering challenge.
 - [Google Project Zero – A Deep Dive into NSO Zero-Click](https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html) – Analyzing the NSO zero-click exploit.
+- [ExplainShell](https://explainshell.com/) – Explains shell commands.
