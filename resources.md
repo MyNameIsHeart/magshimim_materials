@@ -18,6 +18,7 @@
 ## 🎭 Miscellaneous
 - [ExplainShell](https://explainshell.com/) – Explains shell commands.
 - [Google Cloud – Flare-On 11 Reverse Engineering Challenge Solutions](https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions).
+- [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 ### 📄 Articles
 - [Signal's Blog – Exploring vulnerabilities in Cellebrite forensic software](https://signal.org/blog/cellebrite-vulnerabilities/).
