@@ -29,3 +29,6 @@
   - [Code](https://pastebin.com/iGSmYCYN) [Pass: 5FAHLD8JZk]
   - [Solution](https://pastebin.com/NJyYuQQw) [Pass: kLrKeT9wB9]
 
+### CP\<R\>
+- [Check Point Research - Evasion Techniques](https://evasions.checkpoint.com/)
+- [Check Point Research - Anti-Debug Tricks](https://anti-debug.checkpoint.com/)
