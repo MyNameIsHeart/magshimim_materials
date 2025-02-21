@@ -71,7 +71,7 @@
 ## 🤖 Browser Automation & Web Scraping
 
 - [MDN Web Docs - Introduction to Server-Side Development](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction)
-- [GeeksforGeeks - Static vs. Dynamic Web Pages](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/) - Explains the differences between static and dynamic websites with examples.
+- [GeeksforGeeks - Static vs. Dynamic Web Pages](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/)
 - [Selenium Documentation](https://www.selenium.dev/documentation/) - Start by focusing on the WebDriver section.
 
 ## 🔍 CP\<R\>
