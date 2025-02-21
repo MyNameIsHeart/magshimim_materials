@@ -44,7 +44,7 @@
 
 ## 🏆 Capture The Flag (CTFs)
 - [A Solid CTF Methodology by 0xBEN](https://benheater.com/my-ctf-methodology/)
-- [FXP CTF Collection](https://www.fxp.co.il/showthread.php?t=17474110) - A collection of CTF resources and challenges.
+- [FXP CTF Collection](https://www.fxp.co.il/showthread.php?t=17474110) - A collection of CTF resources and challenges (by Rainbow_Dash).
 - [ippsec YouTube Channel](https://www.youtube.com/@ippsec/videos) - Walkthroughs of HackTheBox and other CTF challenges.
 - [OverTheWire Wargames](https://overthewire.org/wargames/) - A collection of CTFs. Bandit is recommended for better proficiency with Linux-based distros.
 - [picoCTF](https://picoctf.org/)
