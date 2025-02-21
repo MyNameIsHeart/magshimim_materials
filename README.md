@@ -6,19 +6,6 @@
 
 ![alt text](image.jpg)
 
-## Table of Contents
-
-1. [📂 Example Projects (Finished Magshimim Projects)](#📂-example-projects-finished-magshimim-projects)
-2. [🔐 Study Web Security](#🔐-study-web-security)
-3. [👨‍💻 Study & Practice Coding](#👨‍💻-study--practice-coding)
-4. [💡 Writing Better Code (Styling & Conventions)](#💡-writing-better-code-styling--conventions)
-5. [🏆 Capture The Flag (CTFs)](#🏆-capture-the-flag-ctfs)
-6. [🔧 Tools & Cheat Sheets](#🔧-tools--cheat-sheets)
-7. [📄 Interesting Articles & Write-ups](#📄-interesting-articles--write-ups)
-8. [❓ Riddles](#❓-riddles)
-9. [🤖 Browser Automation & Web Scraping](#🤖-browser-automation--web-scraping)
-10. [🔍 CP\<R\>](#🔍-cpr)
-
 ## 📂 Example Projects (Finished Magshimim Projects) [^1]
 
 [Vulnerability Scanner for OWASP Juice Shop](https://github.com/MyNameIsHeart/owasp_juice_shop_vulnerability_scanner) - My own project, aiming to be a concise reference implementation to help students working on related WebSec projects.
